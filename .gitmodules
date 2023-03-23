@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "basicspace"]
+	path = basicspace
+	url = https://github.com/cran/basicspace
+	shallow = true
+	registered = true
+[submodule "emIRT"]
+	path = emIRT
+	url = https://github.com/cran/emIRT
+	shallow = true
+	registered = true
